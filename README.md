@@ -23,5 +23,13 @@ If you buy a house for £275,000, the Stamp Duty you owe is calculated as follow
     2% on the next £125,000 = £2,500
     5% on the final £25,000 = £1,250
     Total = £3,750
-
+    
+#### Other Examples
+| House Price | Stamp Duty |
+|-------------|------------|
+|      0      |      0     |
+|   125,000   |      0     |
+|   185,000   |     1200   |
+|   400,000   |    10000   |
+|  2,000,000  |    153750  |
 
